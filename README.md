@@ -6,7 +6,7 @@ Currently, I am one of the two Program Directors for Project WILD, a backpacking
 
 #### Problems to Tackle
 * Creating a system which tracks respondents for Google Forms/other submissions and aggregates this into a spreadsheet. Note: this is intended for situations in which respondents will have to answer a multitude of items
-* Organization of Google Forms into subfolders. Currently, 
+* Download of files with organization of files into Google Drive subfolders. Currently, I am downloading files from email attachments, renaming them, and then hand dragging them into folders in Google Drive which I have to name. An ideal solution would be creating a flexible form interface where files are uploaded. Then from an admin perspective, they could simply run a script which downloads, renames, places into a folder, and uploads into Google Drive. 
 * Reminder emails sent based on incomplete respondents upon an administrators request. 
 
 #### Methods to Implement
