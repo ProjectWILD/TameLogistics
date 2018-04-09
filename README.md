@@ -14,3 +14,6 @@ Currently, I am one of the two Program Directors for Project WILD, a backpacking
 * Will be leveraging the Google App Scripts framework to deliver Google Form automation
 * Will explore other add-ons for Google forms to improve automation including add-ons that recreate new Google Forms from old copies
 * Will be using some Gmail API to send reminder emails (possibly gmailR) as I have previous experience. 
+
+#### Current Work
+1. DiscretePlacementFunction.R: R function which leverages a Linear/Integer Programming package to easily answer the assignment problem. Takes in preferences for n people on n placements and then returns a nice mapping from item to placement with the maximal utility reached from inputted prefereces. 
